@@ -13,6 +13,8 @@ Caso tenha alguma dúvida, sinta-se à vontade para me contatar em qualquer uma 
 
 Muito obrigado! Bons estudos! Abaixo seguem os módulos do curso completo de Crystal! 💻
 
+Acesse a playlist das aulas no YouTube clicando <a href="https://youtube.com/playlist?list=PLXbeqR10SLGp_8B-Jz0gTzlBK2oMofDoR"> aqui! </a>
+
 <h3> Módulos </h3>
 <ul>
   <li> <a href="https://github.com/gutoso/Crystal-Strings"> Módulo 1: Strings </a> </li>
