@@ -5,7 +5,7 @@ Tendo características muito similares ao Ruby, sendo baseada em diversas lingua
 
 Tendo o tipo verificado estaticamente, mas sem ter que especificar o tipo de variáveis ou argumentos do método, além de ser capaz de chamar o código C escrevendo ligações, Crystal se torna uma linguagem peculiar, que pode agradar em diversas ocasiões.
 
-Crystal é open-souce, e você pode acessar o <a href="https://crystal-lang.org/">site oficial</a>, ou então acessar o <a href="https://github.com/crystal-lang">repositório do GitHub!</a>
+Crystal é open-source, e você pode acessar o <a href="https://crystal-lang.org/">site oficial</a>, ou então acessar o <a href="https://github.com/crystal-lang">repositório do GitHub!</a>
 
 O objetivo de todo este curso é apresentar, desenvolver, e preparar seus conhecimentos sobre Crystal, em busca de expandir as possibilidades que esta linguagem pode oferecer!
 
