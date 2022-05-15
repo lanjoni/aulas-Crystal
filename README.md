@@ -7,7 +7,7 @@ Tendo o tipo verificado estaticamente, mas sem ter que especificar o tipo de var
 
 Crystal é open-source, e você pode acessar o <a href="https://crystal-lang.org/">site oficial</a>, ou então acessar o <a href="https://github.com/crystal-lang">repositório do GitHub!</a>
 
-O objetivo de todo este curso é apresentar, desenvolver, e preparar seus conhecimentos sobre Crystal, em busca de expandir as possibilidades que esta linguagem pode oferecer!
+O objetivo de todo este curso é apresentar, desenvolver, e preparar seus conhecimentos sobre Crystal, em busca de expandir as possibilidades que esta linguagem pode oferecer! 
 
 Caso tenha alguma dúvida, sinta-se à vontade para me contatar em qualquer uma das minhas redes sociais!
 
